@@ -1,7 +1,7 @@
 name: Flowers for Algernon
 favicon: null
-layout_spectrum: 0.6721154639963061
-typography_spectrum: 0.38075657514855266
+layout_spectrum: 0.50103
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.6789994600694627
-  lightness: 0.20995697611942887
-  saturation: 0.5267162807285786
-  rhythmicContrast: 0.500284208683297
+    - '#f0f5f8'
+    - '#000000'
+    - '#a4adb6'
+    - '#20232a'
+    - '#464b51'
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
