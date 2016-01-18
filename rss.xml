@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Flowers for Algernon]]></title>
         <description><![CDATA[Flowers for Algernon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/flowers-for-algernon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 18:21:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 18:42:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/flowers-for-algernon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbd34cb4-1cc4-4c55-abb4-dc2efd4640cd.jpg">]]></description>
-            <link>undefinedc7fe4490-e422-442a-aa84-3abfbbfc1496/index.html</link>
+            <description><![CDATA[<p>On January 10th 2016 a new post caught my eye. It was about the discovery of the genetic switches that underlie intelligence. The mnemonic reflex was automatic and I found myself wandering in the world of the 1960 and 1966 award-winning science fiction novel "Flowers for Algernon"; a story about a mouse (and a man) that got its intelligence increased artificially. With genetic engineering surfing the wave of  a new revolution in the field of molecular biology, it is not a quantum leap to believe (with fear and hope and all the mixed feelings that come with such a thought) that the novel may become true - soon. This site is dedicated to the attempt to imagine how "Flowers for Algenon" would be like today, at the dawn of 2016.</p>]]></description>
+            <link>https://thegrid.ai/flowers-for-algernon/c7fe4490-e422-442a-aa84-3abfbbfc1496/index.html</link>
             <guid isPermaLink="false">c7fe4490-e422-442a-aa84-3abfbbfc1496</guid>
-            <pubDate>Mon, 18 Jan 2016 18:21:05 GMT</pubDate>
+            <pubDate>Mon, 18 Jan 2016 18:42:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
