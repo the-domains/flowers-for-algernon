@@ -19,12 +19,12 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: ' a bike blog'
+name: ' a bike trip'
 cta:
   domain: null
   bucket: null
   version: null
 favicon: null
 title: Four hundred castles
-description: A bike travel through time
+description: A bike trip
 purpose: []
